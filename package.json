@@ -1,5 +1,5 @@
 {
-    "name": "showcase angular 1.3 route bug in ie9",
+    "name": "showcase-angular1.3-route-bug-ie9",
     "version": "0.1.0",
     "description": "a show case of angular 1.3 route bug which create infini digest in ie9",
     "main": "app.js",
@@ -16,6 +16,6 @@
     "license": "MIT",
     "dependencies": {
         "errorhandler": "^1.3.5",
-        "express": "^4.12.3",
+        "express": "^4.12.3"
     }
 }

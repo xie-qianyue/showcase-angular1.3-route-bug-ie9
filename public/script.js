@@ -18,8 +18,6 @@ app.config(['$routeProvider', '$locationProvider',
         otherwise({
             redirectTo: '/'
         });
-
-
   }]);
 
 app.controller('MainCtrl', function ($scope) {
